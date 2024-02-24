@@ -3,7 +3,9 @@
 
 ## Welcome to my astounding azure archive of amazingness, aka this github page!
 
-In here you'll find lab setups for several Azure products that are mainly just to demonstrate their functionality but I've thrown in a few powershell scripts and utilies as well.
+In here you'll find lab setups for several Azure products that are mainly just to demonstrate their functionality but I've thrown in a few powershell scripts and utilities that I have found handy as well.
+
+Checkout the [repositories](https://github.com/quiveringbacon?tab=repositories) and see if anything tickles your imagination
 
 I'm a full time geek and love playing around with terraform and creating new scenarios for showing azure capabilites.
 
