@@ -17,5 +17,4 @@ And for stopping by, have this complimentary dragon :dragon:
 <!---
 quiveringbacon/quiveringbacon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-<meta name="google-site-verification" content="u-MKofBdLsuZDa2g5el8jNSvp9WRT1slbnFMiT7M7RA" />
 --->
